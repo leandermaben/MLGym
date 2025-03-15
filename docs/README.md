@@ -20,3 +20,7 @@ Welcome to the MLGym documentation! This directory contains comprehensive docume
 - [Project Website](https://sites.google.com/view/mlgym)
 - [Paper](https://arxiv.org/abs/2502.14499)
 - [Discord Community](https://discord.gg/Zep3cyHhjJ)
+
+## Documentation Status
+
+All documentation files are now complete and available. If you find any issues or have suggestions for improvements, please submit an issue or pull request on GitHub.
